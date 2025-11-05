@@ -1,4 +1,4 @@
-import 'package:football_news/menu.dart';
+import 'package:football_news/screens/menu.dart';
 import 'package:flutter/material.dart';
 
 void main() {
