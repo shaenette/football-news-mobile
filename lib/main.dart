@@ -3,6 +3,7 @@ import 'package:pbp_django_auth/pbp_django_auth.dart';
 import 'package:provider/provider.dart';
 import 'package:football_news/screens/login.dart';
 
+// This is main
 void main() {
   runApp(const MyApp());
 }
